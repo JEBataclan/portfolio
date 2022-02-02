@@ -1,0 +1,99 @@
+.contact-container {
+    background: linear-gradient(0deg, rgba(15,15,15,1) 0%, rgba(15,15,15,1) 50%, rgba(255,255,255,1) 50%);
+    color: #0f0f0f;
+    overflow: hidden;
+
+    display: flex;
+    justify-content: center;
+
+    padding: 20px 0px 20px 0px;
+}
+
+.contact-contents {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+form {
+    background-color: white;
+    max-width: 768px;
+    padding: 10px 20px;
+    border-radius: 5px;
+    border: 1px solid #c2c2c2;
+    overflow: hidden;
+}
+
+.label {
+    color: #5e5e5e;
+    font-size: 16px;
+}
+
+.input {
+    color: #0f0f0f;
+    font-weight: 500;
+    font-size: 24px;
+    border-radius: 5px;
+    line-height: 22px;
+    background-color: transparent;
+    border: 1px solid rgb(102, 102, 102);
+    transition: all 0.3s;
+    padding: 13px;
+    margin-bottom: 15px;
+    width: 100%;
+    box-sizing: border-box;
+    outline: 0;
+}
+
+.input:focus { border:2px solid rgb(46, 46, 46); }
+
+textarea {
+    height: 150px;
+    line-height: 150%;
+    resize:vertical;
+}
+
+[type="submit"] {
+    color: white;
+    width: 100%;
+    background-color: #0f0f0f;
+    border-radius: 5px;
+    border: 0;
+    cursor: pointer;
+    font-size: 24px;
+    transition: all 0.3s;
+    margin-top: -4px;
+    font-weight: 600;
+}
+[type="submit"]:hover { background:#424242; }
+
+.appreciation {
+    text-align: center;
+    font-size: 16px;
+}
+
+/* Extra Small Devices, Phones */
+@media only screen and (min-width : 480px) {
+
+}
+
+/* Small Devices, Tablets */
+@media only screen and (min-width : 768px) {
+    .renders-container {
+        display: flex;
+    }
+}
+
+/* Medium Devices, Desktops */
+@media only screen and (min-width : 992px) {
+
+}
+
+/* Large Devices, Wide Screens */
+@media only screen and (min-width : 1200px) {
+ 
+}
+
+@media only screen and (min-width : 1400px) {
+ 
+}

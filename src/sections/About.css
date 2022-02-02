@@ -1,0 +1,146 @@
+.about-container {
+    display: flex;
+    justify-content: center;
+    background: linear-gradient(180deg, rgba(15,15,15,1) 0%, rgba(15,15,15,1) 75%, rgba(255,255,255,1) 75%);
+    padding: 30px 0px 30px 0px;
+    color: white;
+    overflow: hidden;
+}
+
+.container {
+    width: 90%;
+}
+
+.header-title {
+    font-size: 30px;
+    font-weight: 700;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.about-contents {
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+}
+
+.affiliations {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+}
+
+.affiliation {
+
+}
+
+.affiliation-content {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.affiliation > p{
+    padding: 10px 0;
+}
+
+.affiliation-logo {
+    width: 100px;
+}
+
+.traits {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    gap: 20px;
+}
+
+.trait {
+    color: #0f0f0f;
+    background-color: white;
+    border: 1px solid #b8b8b8;
+    border-radius: 10px;
+}
+
+.trait-contents {
+    width: 90%;
+    padding: 20px 0px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 0 auto;
+}
+
+.trait-contents > p {
+    padding: 10px 0px;
+}
+
+.trait-icon {
+    width: 64px;
+    height: 64px;
+}
+
+.icon-hr {
+    border: 0;
+    border-top: 1px solid #cfcfcf;
+    width: 50%;
+    margin: 10px 0px;
+}
+
+
+
+
+
+
+
+
+
+/* Extra Small Devices, Phones */
+@media only screen and (min-width : 480px) {
+    .affiliations {
+        display: flex;
+        flex-direction: column;
+        flex-wrap: nowrap;
+    }
+
+    .affiliation-content {
+        flex-direction: row;
+    }
+
+    .affiliation-content > p{
+        padding: 10px 20px;
+    }
+}
+
+/* Small Devices, Tablets */
+@media only screen and (min-width : 768px) {
+    .about-contents {
+        flex-wrap: nowrap;
+        justify-content: space-around;
+    }
+
+    .affiliation-content {
+        margin: 0 auto;
+    }
+
+    .trait {
+        width: 30%;
+    }
+}
+
+/* Medium Devices, Desktops */
+@media only screen and (min-width : 992px) {
+    .affiliation-content {
+        width: 900px;
+        margin: 0 auto;
+    }
+}
+
+/* Large Devices, Wide Screens */
+@media only screen and (min-width : 1200px) {
+ 
+}
+
+@media only screen and (min-width : 1400px) {
+ 
+}
