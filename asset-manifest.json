@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.617c80d4.css",
+    "main.js": "/portfolio/static/js/main.3d1a0434.js",
+    "static/js/787.308454f7.chunk.js": "/portfolio/static/js/787.308454f7.chunk.js",
+    "static/media/dragon.png": "/portfolio/static/media/dragon.1d0656f0eba636eb7fd2.png",
+    "static/media/saging-na-saba.png": "/portfolio/static/media/saging-na-saba.d2361552c4dd94d82f17.png",
+    "static/media/dream-setup.png": "/portfolio/static/media/dream-setup.1e9f3202826327c2f910.png",
+    "static/media/tg-coffee.png": "/portfolio/static/media/tg-coffee.f2fe8394e717d92722bb.png",
+    "static/media/render-day.PNG": "/portfolio/static/media/render-day.7989110e542c11723e69.PNG",
+    "static/media/bewilderment.png": "/portfolio/static/media/bewilderment.abe95ce48edd488c2150.png",
+    "static/media/dice.png": "/portfolio/static/media/dice.d9d040c7b79fabd2577f.png",
+    "static/media/kingdom-key.png": "/portfolio/static/media/kingdom-key.bedd1a23347c94ee2582.png",
+    "static/media/t4g-project.PNG": "/portfolio/static/media/t4g-project.01ce6121fc346f727f08.PNG",
+    "static/media/lol-project.png": "/portfolio/static/media/lol-project.d6045602b4d018ef8fc0.png",
+    "static/media/wildrift-project.png": "/portfolio/static/media/wildrift-project.296aa934af24b3d49604.png",
+    "static/media/valorant-project.png": "/portfolio/static/media/valorant-project.1d50df73ac3d5b221239.png",
+    "static/media/tup-logo.png": "/portfolio/static/media/tup-logo.c73fab20a343f0683fe1.png",
+    "static/media/gear-logo.png": "/portfolio/static/media/gear-logo.7b375b7f0fb997709e2d.png",
+    "static/media/pavga-project.jpg": "/portfolio/static/media/pavga-project.bec422ce13f2cd4dd3a5.jpg",
+    "static/media/elfili.jpg": "/portfolio/static/media/elfili.b189c005a6bdd97e7791.jpg",
+    "static/media/payrollsystem-project.png": "/portfolio/static/media/payrollsystem-project.1c5462773855fc06c809.png",
+    "index.html": "/portfolio/index.html",
+    "main.617c80d4.css.map": "/portfolio/static/css/main.617c80d4.css.map",
+    "main.3d1a0434.js.map": "/portfolio/static/js/main.3d1a0434.js.map",
+    "787.308454f7.chunk.js.map": "/portfolio/static/js/787.308454f7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.617c80d4.css",
+    "static/js/main.3d1a0434.js"
+  ]
+}
